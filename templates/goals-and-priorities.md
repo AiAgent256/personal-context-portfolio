@@ -1,53 +1,40 @@
-# Goals and Priorities
+# Goals & Priorities
 
-## What This File Is For
+## 6-12 Month Goals
+- **Haven256:** Find real product-market fit. Secure contracts working with governments (EU/Germany focus).
+- **HashX:** Find real product-market fit. Book clients and trades.
+- **Team alignment:** Get the team aligned around building a scalable process together.
+- **Hedge fund proposal:** Get partner buy-in to run a directional crypto hedge fund within the multi-family office structure. First truly solo enterprise at the firm.
 
-What you're optimizing for — this quarter, this year, and longer term. Agents use this to weight decisions and recommendations appropriately. An agent that knows you're prioritizing speed over polish right now will give you different advice than one that thinks you're optimizing for quality. This file also captures what you're deliberately NOT doing, which is just as important.
+## What Success Looks Like (6-12 months)
+- Both verticals have demonstrated product-market fit
+- HashX has booked clients and active trades running through the platform
+- Haven256 has signed government contracts for digital asset custody
+- The team is aligned and building scalable processes — not just executing one-offs
+- Andrew is running a directional crypto fund with clear ownership and partner support
 
----
+## Longer-Term Vision
+- Build out these businesses to the point of success and eventually take over when the partners want to retire
+- Not overly focused on the long-term right now — building is the priority
+- The trajectory is: prove these verticals work → scale them → inherit leadership of the firm over time
 
-## Interview Protocol
+## Current Priority Weighting
+- Haven256 gets ~70% of time — European expansion and business planning are the top priority
+- HashX platform build is the main focus within that 30%
+- GTM/marketing for HashX is secondary to getting the platform built
+- Hedge fund proposal is high priority personally but timing-dependent — waiting for the powered land deal to close
 
-*Hand this entire file to your AI build partner and say "let's do this one." Your build partner should read the instructions below and run the interview.*
+## How Andrew Thinks About Tradeoffs
+- Everything comes back to: how quickly can we make money the way we want to
+- "The way we want to" = building respectful businesses, not cutting corners
+- Won't sacrifice long-term growth for short-term profit
+- Won't pursue things that take too long when faster paths exist
+- Everything needs to scale and last
+- Very judicious about resource allocation — $500K already spent on Haven256 platform, ~$250K for MiCA license means every decision about where to expand needs to be intentional
+- Revenue in Haven256 is "very lumpy" — need to derisk every other part of the business to compensate
+- On personal investing and the hedge fund: does best with high R:R asymmetric bets (2x, 5x, 10x) — not incremental gains
 
-**Instructions for the build partner:** You're helping the user create their goals and priorities file. This is about what they're optimizing for, not their project list (that's a different file). Push for the difference between goals and projects if they start listing tasks. Use what you know from previous files to ask informed follow-ups.
-
-**Questions to ask:**
-
-1. What are you trying to accomplish in the next few months? Not your project list — your goals. What does success look like by the end of this quarter or this season?
-2. What about longer term — this year, or the next couple of years? What are you building toward?
-3. When you have to make a tradeoff — speed vs. quality, short-term vs. long-term, growth vs. stability — where do you generally land?
-4. What are you explicitly NOT prioritizing right now, even if it's important? What have you deliberately put on the back burner?
-5. If things go well over the next six months, what's different about your work or your life?
-
-**When you have enough:** After 4-5 questions.
-
-**After drafting:** Present the draft. Ask the user to check whether the tradeoff preferences feel accurate — those are the highest-leverage lines in this file because they directly affect how agents make recommendations.
-
----
-
-## Output Structure
-
-```markdown
-# Goals and Priorities
-
-## Current Goals
-
-[What you're trying to accomplish in the near term — this quarter or this season of work. Concrete outcomes, not aspirations.]
-
-## Longer-Term Goals
-
-[This year or the next few years. What you're building toward. Where you want to be.]
-
-## How I Think About Tradeoffs
-
-[Your default positions on common tradeoffs — speed vs. quality, growth vs. stability, short-term vs. long-term, breadth vs. depth. Where you tend to land when forced to choose.]
-
-## What I'm NOT Prioritizing
-
-[Things that are important but deliberately on the back burner. Things you've decided not to do right now so agents don't keep suggesting them.]
-
-## What Success Looks Like
-
-[If things go well in the next six months, what's different? Paint the picture so agents understand what you're working toward.]
-```
+## Professional Identity
+- Sees himself as "half Todd, half Bob" — entrepreneurial vision combined with operational precision
+- First employee at the firm; the hedge fund would be his first truly solo enterprise
+- Wants clear ownership of what he builds — protective of execution velocity against "too many cooks"
