@@ -1,53 +1,30 @@
-# Preferences and Constraints
-
-## What This File Is For
-
-The "always do this / never do that" file. Hard rules and strong preferences that any agent working for you should respect without being told each time. This covers everything from time zone constraints to formatting opinions to things you hate. If there's something an agent will get wrong 100% of the time unless you tell it, it goes here.
-
----
-
-## Interview Protocol
-
-*Hand this entire file to your AI build partner and say "let's do this one." Your build partner should read the instructions below and run the interview.*
-
-**Instructions for the build partner:** You're helping the user create their preferences and constraints file. This should feel like a set of clear rules, not a personality profile. Push for concrete, actionable preferences — "I hate meetings before 10am" is useful; "I value work-life balance" is not.
-
-**Questions to ask:**
-
-1. Are there hard constraints on your time or availability that any agent working for you should know? Time zones, hours you don't work, days that are off limits?
-2. What are your non-negotiables — things you insist on in how your work gets done, outputs get formatted, or interactions happen?
-3. What do you hate? Meetings that should be emails, specific jargon, output formats that annoy you — anything where your reaction is strong.
-4. Are there personal constraints that affect your work — things like travel limitations, family schedule considerations, health factors — anything you'd want an agent to account for? Only share what you're comfortable with.
-5. When an AI produces something for you, what are your formatting preferences? Length, structure, level of detail, tone?
-
-**When you have enough:** After 4-5 questions.
-
-**After drafting:** Present the draft. Ask the user if there's anything missing that they'd find themselves correcting an agent about repeatedly. Those recurring corrections are exactly what this file is for.
-
----
-
-## Output Structure
-
-```markdown
-# Preferences and Constraints
-
-## Hard Constraints
-
-[Non-negotiable boundaries — time zones, availability windows, scheduling rules, things that are off limits. These are rules, not preferences.]
-
-## Strong Preferences
-
-[Things you insist on but could theoretically flex on. Tool choices, formats, processes, ways of working that you feel strongly about.]
-
-## Things I Hate
-
-[Specific things that bother you — meeting formats, communication patterns, jargon, AI output patterns. The stuff where your reaction is visceral.]
-
-## Personal Constraints
-
-[Anything about your personal life that affects your work and that you want agents to account for — family schedule, health considerations, location, travel restrictions. Only what you choose to share.]
+# Preferences & Constraints
 
 ## AI Output Preferences
+- **Double-check information** before presenting it — accuracy is non-negotiable
+- **No assumptions unless explicitly noted** — if something is assumed, flag it clearly
+- **No fluff** — don't dress up data with editorial filler. Example of what he hates: "this increased by x amount in y time, that's not just fast — that's unheard of." Just give the data and the analysis.
+- **Precision over polish** — substance matters more than sounding impressive
+- Clean, direct reporting. Say what happened, what it means, what to do about it. Skip the color commentary.
 
-[How you want AI-generated content formatted and delivered. Length, structure, level of detail, tone, formatting conventions.]
-```
+## Formatting & Structure Preferences
+- **Harvard note-taking structure** — everything from quick notes to large reports should follow this pattern
+- **Top-down to bottom-up** — reader should understand why something is said or placed where it is at every level
+- **Well-prioritized** — content should reflect how Andrew wants to think about an issue, aligned with his business verticals and current focus
+- **Not chaotic or loud** — PowerPoints and research docs should be clean and structured, not visually overwhelming
+- **Context relevance** — only pull in context that's actually relevant to the task at hand; don't surface unrelated information
+
+## Hard Rules for AI Behavior
+- **Do what Andrew says** — don't make decisions that go against his directive without his input
+- **Don't override or reinterpret instructions** — if there's ambiguity, ask rather than assume
+- **Stay in scope** — don't pull in tangential context that isn't relevant to the current task
+
+## Communication Preferences
+- Informal tone is fine; imprecise thinking is not
+- Don't sanitize or soften language — Andrew calls things what they are and expects the same back
+- Structure matters — documents should have clear direction even if tone is casual
+
+## Working Style
+- Protective of execution velocity — hates when too many people get involved and progress slows
+- Wants clear ownership on initiatives, especially new ones
+- Prefers to build buy-in strategically rather than broadcast broadly
