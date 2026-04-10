@@ -1,58 +1,49 @@
-# Role and Responsibilities
+# Role & Responsibilities
 
-## What This File Is For
+**Title:** Vice President, Hashworks Industries
+**Reports to:** Bob — COO of the firm, handles finance, operations, legal, execution. Keeps the ship running.
 
-This is an operational description of your work — what your weeks actually look like, what you're accountable for, what you produce. Agents use this to understand the rhythm and shape of your job so they can help with the right things at the right times. It's not a job description. It's a field guide to how you actually spend your days.
-
----
-
-## Interview Protocol
-
-*Hand this entire file to your AI build partner and say "let's do this one." Your build partner should read the instructions below and run the interview.*
-
-**Instructions for the build partner:** You're helping the user create their role and responsibilities file. This should capture the operational reality of their work, not the idealized version. Ask the following questions one at a time. Use what you already know from the identity file (if completed) to skip redundant questions and ask better follow-ups.
-
-**Questions to ask:**
-
-1. Walk me through a typical week. What are the recurring things that happen every week without fail?
-2. What are you directly accountable for — what are the things where if they don't happen, it's on you?
-3. What decisions do you make regularly? Not the big strategic ones — the routine ones that come up every week.
-4. What do you produce? Reports, analyses, plans, code, presentations — what are the actual outputs of your work?
-5. Who do you report to? Who reports to you, if anyone?
-6. Are there monthly or quarterly rhythms that shape your work — planning cycles, reviews, board meetings, anything like that?
-
-**When you have enough:** After 4-6 questions. This file is medium length. Capture the operational reality, not every edge case.
-
-**After drafting:** Present the draft and ask the user to identify anything that doesn't sound right. Pay particular attention to whether the cadences and rhythms are accurate — people often forget recurring obligations until they see them missing.
-
----
-
-## Output Structure
-
-```markdown
-# Role and Responsibilities
+## Time Split
+- ~70% Haven256
+- ~30% HashX Energy Advisory
 
 ## Core Responsibilities
-
-[What you're accountable for — the things that are unambiguously on you.]
+- Strategy, management, execution, and resource allocation across both verticals
+- Platform buildout oversight for both HashX and Haven256
+- Go-to-market strategy and marketing direction (HashX)
+- European expansion strategy (Haven256 — EU/Germany focus)
+- Business planning — currently writing a business plan to expand Haven256 into custody, AI, and cybersecurity
+- Deep product knowledge holder — co-built the core HashX lending system with Bob
+- Acts as Bob's proxy across the firm
+- Building internal tools for the team
+- Developing investment thesis for directional crypto hedge fund proposal
 
 ## Weekly Cadence
+- A couple Haven256 calls per week
+- A couple HashX calls per week
+- Weekly calls with Addison on HashX operations and platform development
+- Significant time on strategic documents and business plans (e.g., Haven256 expansion plan this week)
+- Working directly with developers (Diontre and Erik) on HashX platform
+- Working with Astra team on Haven256 platform development
 
-[Recurring meetings, check-ins, deadlines, rituals. The skeleton of a typical week.]
+## What He Produces
+- Business plans and strategy documents
+- Platform direction and requirements for dev teams
+- GTM and marketing strategy
+- Resource allocation decisions across verticals
+- Internal tools (built with Claude Code)
+- Investment theses and IC memos
+- PowerPoint presentations — currently 3 decks covering all Haven256 sub-verticals (what/why/why now, product state, wireframes, pricing, sales funnel, marketing, timelines, responsibilities)
 
-## Monthly / Quarterly Rhythms
+## HashX Day-to-Day
+- Primary focus: working with developers Diontre and Erik to build out the collateral/energy platform
+- Secondary: marketing strategy, GTM motions, future product development
+- Collaborates with Addison on operations and product ideas — both bring ideas to the table
+- Has the deeper product/system knowledge; Addison is more sales-oriented
 
-[Planning cycles, reviews, reporting periods, seasonal patterns. The bigger loops.]
-
-## Key Decisions
-
-[The decisions you make regularly — what comes across your desk that requires your judgment.]
-
-## What I Produce
-
-[Your outputs — deliverables, artifacts, reports, plans, code, whatever you create as part of your work.]
-
-## Reporting Structure
-
-[Who you report to, who reports to you. Keep it simple — names and roles.]
-```
+## Haven256 Day-to-Day
+- Primary focus: European expansion (EU, specifically Germany)
+- Working with Astra team on platform development
+- Business planning for vertical expansion into custody, AI, cybersecurity
+- Government relationship development for custody of seized/owned assets
+- Building under guidance of Bob (COO) and Kevin (cybersecurity lead) as managing partners of the vertical
